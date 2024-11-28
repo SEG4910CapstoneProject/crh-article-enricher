@@ -1,5 +1,7 @@
 # article-enricher
 
+This service classifies article types by making API calls to the enrichment API.
+
 ### Required Environment variables
 | Environment Variable  | Description                                                                  |
 |-----------------------|------------------------------------------------------------------------------| 
